@@ -10,9 +10,9 @@
   - 🌊 **Vízi sportok**
 
  🌱 **Jelenlegi Tevékenységeim:**
-    - 🛠️ Játékfejlesztéssel és digitális művészetekkel foglalkozom aktívan. Több saját projekten is dolgozom, például egy kaland-FPS RPG-n és egy versenyjáték stílusú labirintus felfedezőn.
-    - 🤖 **Discord bot fejlesztés:** Pythonban fejlesztek botokat, például a *MerlinEntertainmentBot*-ot, amely moderációt, Twitch integrációt és értesítések kezelését biztosítja.
-    - 📊 **Google Sheets automatizálás:** JavaScript és Google Apps Script segítségével dolgozom különböző adatkezelési és automatizálási megoldásokon.
+  - 🛠️ Játékfejlesztéssel és digitális művészetekkel foglalkozom aktívan. Több saját projekten is dolgozom, például egy kaland-FPS RPG-n és egy versenyjáték stílusú labirintus felfedezőn.
+  - 🤖 **Discord bot fejlesztés:** Pythonban fejlesztek botokat, például a *MerlinEntertainmentBot*-ot, amely moderációt, Twitch integrációt és értesítések kezelését biztosítja.
+  - 📊 **Google Sheets automatizálás:** JavaScript és Google Apps Script segítségével dolgozom különböző adatkezelési és automatizálási megoldásokon.
 
 - 💞️ **Együttműködések:**
   - 🤝 Szívesen működöm együtt projekteken, amelyek programozással,  
