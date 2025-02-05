@@ -14,14 +14,14 @@
   - 🤖 **Discord bot fejlesztés:** Pythonban fejlesztek botokat, például a *MerlinEntertainmentBot*-ot, amely moderációt, Twitch integrációt és értesítések kezelését biztosítja.
   - 📊 **Google Sheets automatizálás:** JavaScript és Google Apps Script segítségével dolgozom különböző adatkezelési és automatizálási megoldásokon.
 
-- 💞️ **Együttműködések:**
+💞️ **Együttműködések:**
   - 🤝 Szívesen működöm együtt projekteken, amelyek programozással,  
     játékfejlesztéssel vagy kreatív digitális tartalomgyártással kapcsolatosak.
 
-- 📫 **Elérhetőség:**
+📫 **Elérhetőség:**
   - 📧 [firednox@gmail.com](mailto:firednox@gmail.com)
 
-- ⚡ **Érdekesség:**
+⚡ **Érdekesség:**
   - 📺 Az EmeraldWing Entertainment csatornákat azért hoztam létre,  
     hogy élő közvetítések és digitális tartalmak formájában osszam meg a szenvedélyeimet.
 
