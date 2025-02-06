@@ -158,7 +158,7 @@ In my free time, I enjoy water sports:
 
 Other sports:
 - 🚴 Cycling
-- 🐎 Horseback Riding ~ 20 éve
+- 🐎 Horseback Riding ~ 20 years
 - 🏊 Swimming
 
 Leisure activities:
