@@ -70,7 +70,7 @@ Szabadidőmben szeretek vízi sportokkal foglalkozni:
 
 Egyéb sportok:
 - 🚴 Biciklizés
-- 🐎 Lovaglás
+- 🐎 Lovaglás ~ 20 éve
 - 🏊 Úszás
 
 Szabadidős tevékenységek:
@@ -158,7 +158,7 @@ In my free time, I enjoy water sports:
 
 Other sports:
 - 🚴 Cycling
-- 🐎 Horseback Riding
+- 🐎 Horseback Riding ~ 20 éve
 - 🏊 Swimming
 
 Leisure activities:
