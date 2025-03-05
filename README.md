@@ -54,6 +54,7 @@ Jelenleg két játékprojekten is dolgozom:
 - 🖥️ Python
 - 🖥️ JavaScript
 - 🖥️ Lua
+- 🖥️ SQL
 
 ### 🌍 **Beszélt nyelvek:**
 - 🇭🇺 **Magyar:** Anyanyelv
@@ -148,6 +149,7 @@ I am currently working on two game projects:
 - 🖥️ Python
 - 🖥️ JavaScript
 - 🖥️ Lua
+- 🖥️ SQL
 
 ## 🌐 **Other Interests**
 
