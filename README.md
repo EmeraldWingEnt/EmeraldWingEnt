@@ -48,6 +48,15 @@ Jelenleg két játékprojekten is dolgozom:
 - 🛠️ Blender
 - 🛠️ Unreal Engine
 - 🛠️ VS Code
+- 🛠️ Git (verziókezelés)
+- 🛠️ WinSCP
+- 🛠️ WinSCP
+- 🛠️ Trello
+- 🛠️ Discord
+- 🛠️ OpenIV
+- 🛠️ CodeWalker
+- 🛠️ OBS Studió
+- 🛠️ DaVinci Resolve
 
 ### 💻 **Programnyelvek:**
 - 🖥️ C#
@@ -143,6 +152,14 @@ I am currently working on two game projects:
 - 🛠️ Blender
 - 🛠️ Unreal Engine
 - 🛠️ VS Code
+- 🛠️ Git (verziókezelés)
+- 🛠️ WinSCP
+- 🛠️ Trello
+- 🛠️ Discord
+- 🛠️ OpenIV
+- 🛠️ CodeWalker
+- 🛠️ OBS Studió
+- 🛠️ DaVinci Resolve
 
 ### 💻 **Programming Languages:**
 - 🖥️ C#
